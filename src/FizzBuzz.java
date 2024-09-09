@@ -37,7 +37,7 @@ class FizzBuzz {
 
             System.out.println(i);
             i++;
-//changes made for pull
+
         }
         return i;
     }
